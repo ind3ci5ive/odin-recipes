@@ -1,5 +1,6 @@
 
 
+
 a {
 
     text-decoration: none;
@@ -20,7 +21,7 @@ ul {
     width: 50%
 }
 
-li {
+.navbar {
 
     box-sizing: border-box;
     display: inline-block;
